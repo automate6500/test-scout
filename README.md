@@ -1,5 +1,7 @@
 # Test Scout
 
+TODO: Create a workflow and add the status badge here
+
 **A GitHub Action that scans Python repositories for test files and reports test coverage based on a customizable pattern.**
 
 This action helps teams enforce or encourage test coverage by identifying when Python source files exist but no matching test files are found.
